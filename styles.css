@@ -1,0 +1,14 @@
+img {
+    height: 200px;
+}
+
+h3 {
+    border: 10px dashed purple;
+    padding: 15px;
+}
+
+p {
+     border: 15px solid purple;
+     padding: 18px;
+     margin: 50px;
+}
